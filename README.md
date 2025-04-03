@@ -42,7 +42,4 @@ This is a simple **Weather App** that allows users to enter a city name and retr
 │── README.md       # Documentation
 ```
 
-
----
-💙 Made with passion by **YOUR_NAME**
-```
+💙 Made with passion by **Satvic Bajpai**
